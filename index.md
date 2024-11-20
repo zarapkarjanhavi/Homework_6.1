@@ -62,7 +62,7 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 
 
-<iframe src="bar_plot.html" width="1000" height="600"></iframe>
+<iframe src="bar_plot.html" width="1100" height="600"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
