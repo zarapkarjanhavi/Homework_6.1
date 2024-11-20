@@ -60,7 +60,7 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 [View the interactive dropdown chart](https://github.com/zarapkarjanhavi/Homework_6.1/blob/main/bar_plot.html)
 
-<iframe src="dropdown_chart.html" width="800" height="500"></iframe>
+<iframe src="bar_plot.html" width="800" height="500"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
