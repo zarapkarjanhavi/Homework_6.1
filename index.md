@@ -4,12 +4,14 @@ title: Homework 6.1 Visualizations
 ---
 
 # Homework 6.1 Visualizations
+## - By Janhavi Tushar Zarapkar (jzarap2@illinois.edu)
 
 ## Visualization 1: Building Count by Decade for top 10 Counties
 
 
 
-<iframe src="bar_chart.html" width="1000" height="800"></iframe>
+
+<iframe src="bar_chart.html" width="800" height="800"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
@@ -60,7 +62,7 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 
 
-<iframe src="bar_plot.html" width="1000" height="800"></iframe>
+<iframe src="bar_plot.html" width="800" height="800"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
