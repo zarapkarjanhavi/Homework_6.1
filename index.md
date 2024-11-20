@@ -11,7 +11,7 @@ title: Homework 6.1 Visualizations
 
 
 
-<iframe src="bar_chart.html" width="1000" height="500"></iframe>
+<iframe src="bar_chart.html" width="1000" height="600"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
@@ -62,7 +62,7 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 
 
-<iframe src="bar_plot.html" width="1000" height="500"></iframe>
+<iframe src="bar_plot.html" width="1000" height="600"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
@@ -95,3 +95,9 @@ I used the viridis color scheme, which is designed for categorical data and work
 
 ## Impact of This Visualization:
 This visualization strikes a balance between simplicity and depth. The use of horizontal bars makes it easy to compare the average square footage across different usage descriptions, while the interactivity allows users to filter the data according to their specific interests. The explicit color differentiation between counties makes it easy to identify trends across regions, and the tooltips provide additional context to help users understand the data. By transforming and filtering the data effectively, I’ve created a visualization that is both informative and user-friendly, giving clear insights into the relationship between usage descriptions, square footage, county, and building status.
+
+
+#### Resources
+
+- [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
+- [The Analysis](https://github.com/zarapkarjanhavi/Homework_6.1/blob/main/Workbook.ipynb)
