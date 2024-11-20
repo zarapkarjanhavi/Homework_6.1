@@ -13,7 +13,7 @@ title: Homework 6.1 Visualizations
 
 <iframe src="bar_chart.html" width="1000" height="600"></iframe>
 
-### Writeup:
+## Writeup for Vizualization 1:
 ## Why I Chose to Visualize This:
 I chose this visualization to explore trends in building acquisitions across the top 10 counties and to see how these trends varied by decade. The bar chart provides a straightforward way to compare counts over time, helping identify patterns such as surges or declines in building activity. By focusing on the top counties, I ensured that the visualization remains concise and relevant to key regions.
 
@@ -64,7 +64,8 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 <iframe src="bar_plot.html" width="1100" height="600"></iframe>
 
-### Writeup:
+## Writeup for Vizualization 2 :
+
 ## Why I Chose to Visualize This:
 I chose this visualization to analyze the average square footage of buildings by their usage description across the top 15 counties. The horizontal bar chart provides a straightforward and accessible way to compare the average square footage of buildings for different usage types. By focusing on the top 15 counties, I ensured that the visualization highlights the most significant areas, ensuring it remains relevant and not overwhelmed by smaller datasets. The interactivity, such as the county and building status filters, allows for an in-depth exploration of how these variables influence the results.
 
