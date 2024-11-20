@@ -11,7 +11,7 @@ title: Homework 6.1 Visualizations
 
 
 
-<iframe src="bar_chart.html" width="1000" height="600"></iframe>
+<iframe src="bar_chart.html" width="1000" height="550"></iframe>
 
 ## Writeup for Vizualization 1:
 ## Why I Chose to Visualize This:
@@ -62,7 +62,7 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 
 
-<iframe src="bar_plot.html" width="1100" height="600"></iframe>
+<iframe src="bar_plot.html" width="1100" height="550"></iframe>
 
 ## Writeup for Vizualization 2 :
 
