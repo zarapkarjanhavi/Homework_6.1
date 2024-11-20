@@ -7,9 +7,9 @@ title: Homework 6.1 Visualizations
 
 ## Visualization 1: Building Count by Decade for top 10 Counties
 
-[View the interactive bar chart](https://github.com/zarapkarjanhavi/Homework_6.1/blob/main/bar_chart.html)
 
-<iframe src="bar_chart.html" width="800" height="600"></iframe>
+
+<iframe src="bar_chart.html" width="1000" height="800"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
@@ -58,9 +58,9 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 ## Vizualization 2:  Average Square Footage by Usage Description with Filters for Top 15 Counties and their Building Status
 
-[View the interactive dropdown chart](https://github.com/zarapkarjanhavi/Homework_6.1/blob/main/bar_plot.html)
 
-<iframe src="bar_plot.html" width="800" height="500"></iframe>
+
+<iframe src="bar_plot.html" width="1000" height="800"></iframe>
 
 ### Writeup:
 ## Why I Chose to Visualize This:
