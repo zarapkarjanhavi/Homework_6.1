@@ -8,10 +8,20 @@ title: Homework 6.1 Visualizations
 
 ## Visualization 1: Building Count by Decade for top 10 Counties
 
+<!-- Embed the JSON chart for Building Count by Decade -->
+<div id="vis1"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+<script>
+  // Load the JSON specification for Visualization 1
+  vegaEmbed('#vis1', 'bar_chart.json').catch(console.error);
+</script>
 
 
-
-<iframe src="bar_chart.html" width="1000" height="550"></iframe>
+<!-- <iframe src="bar_chart.html" width="1000" height="550"></iframe>-->
 
 ## Writeup for Vizualization 1:
 ## Why I Chose to Visualize This:
@@ -62,7 +72,14 @@ I designed this visualization to balance simplicity and depth. The bar chart is 
 
 
 
-<iframe src="bar_plot.html" width="1100" height="550"></iframe>
+<!--<iframe src="bar_plot.html" width="1100" height="550"></iframe> -->
+<!-- Embed the JSON chart for Average Square Footage -->
+<div id="vis2"></div>
+
+<script>
+  // Load the JSON specification for Visualization 2
+  vegaEmbed('#vis2', 'bar_plot.json').catch(console.error);
+</script>
 
 ## Writeup for Vizualization 2 :
 
